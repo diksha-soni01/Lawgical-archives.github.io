@@ -1,10 +1,11 @@
 ---
-title: Welcome to Lawgical Archives
-date: 2025-06-17 10:00:00 +0530
-categories: [Law, Research]
-tags: [legal, blog]
+layout: post
+title: "Welcome to Lawgical Archives"
+date: 2025-06-17 12:00:00 +0530
+categories: [Introduction]
+tags: [Welcome, First Post]
 ---
 
-Hello readers! 👋  
-Welcome to **Lawgical Archives**, your weekly dose of legal insight.  
-Stay tuned for fresh updates on laws, research, and legal opinions!
+Welcome to **Lawgical Archives** — a space where legal thought, analysis, and creativity meet.
+
+This blog is managed by **Diksha Soni**, a student of law with a passion for writing and critical analysis. Stay tuned for weekly insights on law, policy, and more!
